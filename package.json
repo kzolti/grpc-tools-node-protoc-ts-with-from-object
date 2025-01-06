@@ -1,6 +1,6 @@
 {
   "name": "grpc-tools-node-protoc-ts-with-from-object",
-  "version": "5.3.3",
+  "version": "5.3.30001",
   "description": "Generate .d.ts definitions for the generated JavaScript files from grpc_tools_node_protoc, ensuring that the fromObject method is included in the definition file.",
   "main": "build/index.js",
   "scripts": {
