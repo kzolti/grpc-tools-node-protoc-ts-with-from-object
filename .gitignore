@@ -1,4 +1,6 @@
 build
+*.lock
+*-lock.*
 # Logs
 logs
 *.log
@@ -58,3 +60,5 @@ jspm_packages/
 .env
 
 .idea
+yarn.lock
+package-lock.json
